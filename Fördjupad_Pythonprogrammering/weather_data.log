@@ -1,0 +1,105 @@
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 601
+INFO:root:Fetched data for Stockholm: Min = 9.05, Max = 11.72, Description = light intensity drizzle rain
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 601
+INFO:root:Fetched data for Stockholm: Min = 9.05, Max = 11.72, Description = light intensity drizzle rain
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 500
+INFO:root:Fetched data for Stockholm: Min = 9.05, Max = 10.61, Description = broken clouds
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 513
+INFO:root:Fetched data for Stockholm: Min = 6.83, Max = 8.38, Description = light rain
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 503
+INFO:root:Fetched data for Stockholm: Min = 10.19, Max = 11.75, Description = few clouds
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 503
+INFO:root:Fetched data for Stockholm: Min = 10.05, Max = 11.75, Description = few clouds
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 503
+INFO:root:Fetched data for Stockholm: Min = 10.02, Max = 11.72, Description = few clouds
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 503
+INFO:root:Fetched data for Stockholm: Min = 10.02, Max = 11.72, Description = few clouds
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 503
+INFO:root:Fetched data for Stockholm: Min = 10.72, Max = 11.72, Description = few clouds
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 503
+INFO:root:Fetched data for Stockholm: Min = 10.72, Max = 11.72, Description = few clouds
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 503
+INFO:root:Fetched data for Stockholm: Min = 10.72, Max = 11.72, Description = few clouds
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored
+INFO:root:Data with ID 7 deleted from database.
+INFO:root:Data with ID 8 deleted from database.
+INFO:root:Fetching temperature data for Stockholm
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /geo/1.0/direct?q=Stockholm&limit=1&appid=faf94359c4460b015879cd986ae00ec0 HTTP/1.1" 200 1708
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?lat=59.3251172&lon=18.0710935&appid=faf94359c4460b015879cd986ae00ec0&units=metric HTTP/1.1" 200 508
+INFO:root:Fetched data for Stockholm: Min = 10.75, Max = 12.3, Description = scattered clouds
+INFO:root:Data for Stockholm successfully stored in database.
+INFO:root:Data for Stockholm successfully stored

@@ -1,0 +1,508 @@
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 10.02, Max = 11.72, Description = few clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)  
+--------------------------------------------------------------------------------
+1     Stockholm            2024-09-28 14:39:02  10.02           11.72          
+2     Stockholm            2024-09-28 14:51:02  10.05           11.75          
+3     Stockholm            2024-09-28 14:57:02  10.02           11.72          
+None
+<IPython.core.display.Image object>
+None
+<IPython.core.display.Image object>
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 10.72, Max = 11.72, Description = few clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)  
+--------------------------------------------------------------------------------
+1     Stockholm            2024-09-28 14:39:02  10.02           11.72          
+2     Stockholm            2024-09-28 14:51:02  10.05           11.75          
+3     Stockholm            2024-09-28 14:57:02  10.02           11.72          
+4     Stockholm            2024-09-28 15:06:02  10.72           11.72          
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 10.72, Max = 11.72, Description = few clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-28 14:39:02  10.02           11.72           few clouds          
+2     Stockholm            2024-09-28 14:51:02  10.05           11.75           few clouds          
+3     Stockholm            2024-09-28 14:57:02  10.02           11.72           few clouds          
+4     Stockholm            2024-09-28 15:06:02  10.72           11.72           few clouds          
+5     Stockholm            2024-09-28 15:11:02  10.72           11.72           few clouds          
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 10.75, Max = 11.75, Description = few clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-28 14:39:02  10.02           11.72           few clouds          
+2     Stockholm            2024-09-28 14:51:02  10.05           11.75           few clouds          
+3     Stockholm            2024-09-28 14:57:02  10.02           11.72           few clouds          
+4     Stockholm            2024-09-28 15:06:02  10.72           11.72           few clouds          
+5     Stockholm            2024-09-28 15:11:02  10.72           11.72           few clouds          
+6     Stockholm            2024-09-28 15:20:02  10.75           11.75           few clouds          
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-28 14:39:02  10.02           11.72           few clouds          
+2     Stockholm            2024-09-28 14:51:02  10.05           11.75           few clouds          
+3     Stockholm            2024-09-28 14:57:02  10.02           11.72           few clouds          
+4     Stockholm            2024-09-28 15:06:02  10.72           11.72           few clouds          
+5     Stockholm            2024-09-28 15:11:02  10.72           11.72           few clouds          
+6     Stockholm            2024-09-28 15:20:02  10.75           11.75           few clouds          
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 10.16, Max = 11.75, Description = few clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-28 14:39:02  10.02           11.72           few clouds          
+2     Stockholm            2024-09-28 14:51:02  10.05           11.75           few clouds          
+3     Stockholm            2024-09-28 14:57:02  10.02           11.72           few clouds          
+4     Stockholm            2024-09-28 15:06:02  10.72           11.72           few clouds          
+5     Stockholm            2024-09-28 15:11:02  10.72           11.72           few clouds          
+6     Stockholm            2024-09-28 15:20:02  10.75           11.75           few clouds          
+7     Stockholm            2024-09-28 15:35:03  10.16           11.75           few clouds          
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-28 14:39:02  10.02           11.72           few clouds          
+2     Stockholm            2024-09-28 14:51:02  10.05           11.75           few clouds          
+3     Stockholm            2024-09-28 14:57:02  10.02           11.72           few clouds          
+4     Stockholm            2024-09-28 15:06:02  10.72           11.72           few clouds          
+5     Stockholm            2024-09-28 15:11:02  10.72           11.72           few clouds          
+6     Stockholm            2024-09-28 15:20:02  10.75           11.75           few clouds          
+7     Stockholm            2024-09-28 15:35:03  10.16           11.75           few clouds          
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 10.75, Max = 12.3, Description = scattered clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 10.05, Max = 12.3, Description = scattered clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 10.19, Max = 12.19, Description = scattered clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 6.79, Max = 9.08, Description = heavy intensity rain
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 6.75, Max = 7.05, Description = light rain
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 6.05, Max = 6.92, Description = heavy intensity rain
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 6.05, Max = 6.92, Description = broken clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 5.72, Max = 7.16, Description = scattered clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 5.19, Max = 6.53, Description = scattered clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+16    Stockholm            2024-09-28 23:00:02  5.19            6.53            scattered clouds    
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+16    Stockholm            2024-09-28 23:00:02  5.19            6.53            scattered clouds    
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 4.6, Max = 6.05, Description = scattered clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+16    Stockholm            2024-09-28 23:00:02  5.19            6.53            scattered clouds    
+17    Stockholm            2024-09-29 00:00:03  4.60            6.05            scattered clouds    
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+16    Stockholm            2024-09-28 23:00:02  5.19            6.53            scattered clouds    
+17    Stockholm            2024-09-29 00:00:03  4.60            6.05            scattered clouds    
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 3.52, Max = 6.08, Description = scattered clouds
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+16    Stockholm            2024-09-28 23:00:02  5.19            6.53            scattered clouds    
+17    Stockholm            2024-09-29 00:00:03  4.60            6.05            scattered clouds    
+18    Stockholm            2024-09-29 01:00:02  3.52            6.08            scattered clouds    
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+16    Stockholm            2024-09-28 23:00:02  5.19            6.53            scattered clouds    
+17    Stockholm            2024-09-29 00:00:03  4.60            6.05            scattered clouds    
+18    Stockholm            2024-09-29 01:00:02  3.52            6.08            scattered clouds    
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 7.05, Max = 9.01, Description = clear sky
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+16    Stockholm            2024-09-28 23:00:02  5.19            6.53            scattered clouds    
+17    Stockholm            2024-09-29 00:00:03  4.60            6.05            scattered clouds    
+18    Stockholm            2024-09-29 01:00:02  3.52            6.08            scattered clouds    
+19    Stockholm            2024-09-29 12:00:02  7.05            9.01            clear sky           
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+16    Stockholm            2024-09-28 23:00:02  5.19            6.53            scattered clouds    
+17    Stockholm            2024-09-29 00:00:03  4.60            6.05            scattered clouds    
+18    Stockholm            2024-09-29 01:00:02  3.52            6.08            scattered clouds    
+19    Stockholm            2024-09-29 12:00:02  7.05            9.01            clear sky           
+Coordinates for Stockholm: lat = 59.3251172, lon = 18.0710935
+Temperature for Stockholm: Min = 9.66, Max = 10.67, Description = clear sky
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+16    Stockholm            2024-09-28 23:00:02  5.19            6.53            scattered clouds    
+17    Stockholm            2024-09-29 00:00:03  4.60            6.05            scattered clouds    
+18    Stockholm            2024-09-29 01:00:02  3.52            6.08            scattered clouds    
+19    Stockholm            2024-09-29 12:00:02  7.05            9.01            clear sky           
+20    Stockholm            2024-09-29 14:00:03  9.66            10.67           clear sky           
+ID    City                 Date                 Min Temp (°C)   Max Temp (°C)   Description         
+----------------------------------------------------------------------------------------------------
+1     Stockholm            2024-09-23 23:44:08  12.08           14.55           clear sky           
+2     Stockholm            2024-09-26 00:00:52  11.79           13.86           scattered clouds    
+3     Stockholm            2024-09-26 00:01:05  11.79           13.86           scattered clouds    
+4     Stockholm            2024-09-27 16:49:21  9.05            10.61           broken clouds       
+5     Stockholm            2024-09-27 23:24:04  6.83            8.38            light rain          
+6     Stockholm            2024-09-28 14:24:50  10.19           11.75           few clouds          
+7     Stockholm            2024-09-28 15:41:35  10.75           12.30           scattered clouds    
+8     Stockholm            2024-09-28 15:46:04  10.75           12.30           scattered clouds    
+9     Stockholm            2024-09-28 16:00:03  10.05           12.30           scattered clouds    
+10    Stockholm            2024-09-28 17:00:05  10.19           12.19           scattered clouds    
+11    Stockholm            2024-09-28 18:00:03  6.79            9.08            heavy intensity rain
+12    Stockholm            2024-09-28 19:00:04  6.75            7.05            light rain          
+13    Stockholm            2024-09-28 20:00:02  6.05            6.92            heavy intensity rain
+14    Stockholm            2024-09-28 21:00:02  6.05            6.92            broken clouds       
+15    Stockholm            2024-09-28 22:00:02  5.72            7.16            scattered clouds    
+16    Stockholm            2024-09-28 23:00:02  5.19            6.53            scattered clouds    
+17    Stockholm            2024-09-29 00:00:03  4.60            6.05            scattered clouds    
+18    Stockholm            2024-09-29 01:00:02  3.52            6.08            scattered clouds    
+19    Stockholm            2024-09-29 12:00:02  7.05            9.01            clear sky           
+20    Stockholm            2024-09-29 14:00:03  9.66            10.67           clear sky           
